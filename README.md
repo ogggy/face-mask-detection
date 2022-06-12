@@ -7,13 +7,13 @@ python3 -m venv venv
 . venv/bin/activate (for MacOS, Linux)
 venv\Scripts\activate (for Windows)
 
-#install flask
+#install flask:
 pip install flask
 
-#install tensorflow
+#install tensorflow:
 pip install tensorflow
 
-#run server
+#run server:
 python app.py
 
 
