@@ -1,7 +1,8 @@
 # face-mask-detection
 
 ******SET UP ENVIRONMENT************************************
-#active env
+
+#active env:
 python3 -m venv venv
 . venv/bin/activate (for MacOS, Linux)
 venv\Scripts\activate (for Windows)
